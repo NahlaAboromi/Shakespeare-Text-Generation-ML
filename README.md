@@ -21,6 +21,3 @@ After training, the model can generate new text passages that imitate Shakespear
 - Apply Natural Language Processing techniques
 - Train and evaluate a text generation model
 
-## Author
-Nahla Aboromy  
-B.Sc. Software Engineering – Braude College of Engineering
